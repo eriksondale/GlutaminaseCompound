@@ -1,0 +1,1 @@
+Amide_synthesis_from_carboxylic_acid.smarts	[#6:1]-[#6:2](=[O:3])-[#7:4]>>[#8]-[#6:2](-[#6:1])=[O:3].[#7:4]
